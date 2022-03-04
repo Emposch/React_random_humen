@@ -4,7 +4,7 @@ import Footer from './../src/components/Footer/Footer'
 
 function App() {
   return (
-<div>
+<div className='ggwp'>
   <Main/>
   <Footer/>
 </div>

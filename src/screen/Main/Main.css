@@ -1,21 +1,17 @@
-
+body{
+    background-color: darkgrey;
+}
 p{  
-    color: white;
+    color: brown;
 }
 h1{
     color: white;
+    font-weight: 700px;
 }
-.main{
-    background-image: url(./../Picture.jpeg);
-   
-    color: white;
-    background-color: black;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
+
 .main_render{
+    position: absolute;
+    left: 35%;
     margin-top: 5%;
     width: 400px;
     height: 300px;

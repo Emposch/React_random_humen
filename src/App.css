@@ -42,4 +42,10 @@ margin: 0;
 }
 .avatar{
   border-radius: 50px;
+  
+}
+.ggwp{
+  background-image: url(./screen/Hacker.jpg);
+  height: 1050px;
+  
 }
